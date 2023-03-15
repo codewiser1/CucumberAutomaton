@@ -2,11 +2,11 @@ package test;
 
 import utilities.Driver;
 
-public class Phone {
+public class GitAutomationTest {
 
     public static void main(String[] args) {
 
-        Driver.getDriver().get("https://google.com");
+        Driver.getDriver().get("https://instagram.com");
         System.out.println("Trial");
     }
 }
